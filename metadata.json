@@ -1,0 +1,6 @@
+{
+  "name": "Kinematics Mesh Designer",
+  "description": "Parametric 3D printable mesh generation tool with Rapier physics simulation, inspired by Nervous System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
